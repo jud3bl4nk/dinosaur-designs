@@ -1,6 +1,6 @@
 html {
-  background-color: #ff69b4;
-  font-family: Georgia, serif;
+  background-color: #d9cd9a;
+font-family: 'Patua One', sans-sans-serif;
   line-height: 1.5;
 }
 img {
@@ -14,5 +14,22 @@ figcaption {
 font-size: .8rem;
 font-style: italic;
 text-align: center;
-
+}
+nav {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+nave ol{
+  list-style-type: none;
+}
+nav a {
+  list-style-type: none;
+}
+nav a:hover {
+  color: #b42885;
+  text-decoration: underline;
+}
+.intro {
+  font-size: 1rem;
+}
 }

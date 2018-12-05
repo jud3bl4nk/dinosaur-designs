@@ -16,35 +16,31 @@ h1 {
 }
 
 h2 {
+  font-family: Georgia, serif;
   color: #5d8432;
   text-transform: uppercase;
 }
 
 figcaption {
-  line-height: 1.5;
-  font-size: .75rem;
+  font-size: .8rem;
   font-style: italic;
-  font-weight: lighter;
   text-align: center;
 }
 
 nav {
+  font-family: "Patua One", sans-serif;
+  color: #5d8432;
   font-size: 1.125rem;
   font-weight: bold;
-  font-family: "Patua One", sans-serif;
 }
 
 nav ol {
-  color: #5d8432;
-  text-decoration: none;
   list-style-type: none;
-  font-family: "Patua One", sans-serif;
 }
 
 nav a {
   color: #793284;
   text-decoration: none;
-  list-style-type: none;
 }
 
 nav a:hover {
@@ -53,9 +49,5 @@ nav a:hover {
 }
 
 .intro {
-  line-height: 1.5;
   font-size: 1rem;
-  font-style: italic;
-  font-weight: lighter;
-  text-align: center;
 }
